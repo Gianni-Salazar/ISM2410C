@@ -77,7 +77,7 @@
 
 ## AI - Sentiment Analysis with Power BI
 
-Launch a new instance of Power BI Desktop, and use the Excel connector to import the workbook called Hotel Ratings.xlsx found in the github source files. Once you select this workbook, choose the spreadsheet called Reviews in the Navigator window, and then select Transform Data to launch the Power Query Editor.
-Select Text Analytics on the Home ribbon of the Power Query Editor. If this is your first time using this feature, you may be prompted to sign into a Power BI account that has Power BI Premium capacity assigned to it.
-Next, you will be prompted to choose which Text Analytics algorithm you would like to use. Select Score sentiment, and ensure the ReviewText field is the Text that will be analyzed. Then click OK.
-If prompted with a data privacy warning, click Continue and then select Ignore Privacy Levels check for this file before clicking Save. This type of warning can occur when you combine two disparate sources or services together and is to ensure it is OK for these data sources to be combined.
+1. Launch a new instance of Power BI Desktop, and use the Excel connector to import the workbook called Hotel Ratings.xlsx found in the github source files. Once you select this workbook, choose the spreadsheet called Reviews in the Navigator window, and then select Transform Data to launch the Power Query Editor.
+2. Select Text Analytics on the Home ribbon of the Power Query Editor. If this is your first time using this feature, you may be prompted to sign into a Power BI account that has Power BI Premium capacity assigned to it.
+3. Next, you will be prompted to choose which Text Analytics algorithm you would like to use. Select Score sentiment, and ensure the ReviewText field is the Text that will be analyzed. Then click OK.
+4. If prompted with a data privacy warning, click Continue and then select Ignore Privacy Levels check for this file before clicking Save. This type of warning can occur when you combine two disparate sources or services together and is to ensure it is OK for these data sources to be combined.
